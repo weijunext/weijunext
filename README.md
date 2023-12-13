@@ -1,16 +1,45 @@
-### Hi there 👋
+<div style="overflow:hidden" class="weijunext">
 
-<!--
-**weijunext/weijunext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weijunext&count_private=true&theme=radical" style="max-width:50%;" />
+</a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋, I'm Wei Jun!
+
+## 🚀 About Me
+I'm a passionate **Front-End Engineer** and a **Full-Stack Development Enthusiast**. I have a keen interest in **AI** and love exploring the boundaries of technology and creativity.
+
+## 🛠 Skills
+- **Front-End Development:** Proficient in `React`, `Vue`, and `Next.js`.
+- **Back-End Basics:** Comfortable with `Koa`, `Express`, `Midway.js`.
+- **AI Enthusiasm:** Currently learning about generative AI technologies.
+
+
+## 💡 My Products
+- **[HelloAI](https://helloai.wiki)**
+- **[SmartExcel](https://smartexcel.cc)**
+- **[Next.js Ecosystem Technology Sharing](https://github.com/weijunext/nextjs-learn-demos)**
+
+
+## 🌱 Learning Journey
+I'm on a continuous journey of learning and growth. My current focus includes:
+- The course **[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)** deepening my understanding of AI in tech.
+- Exploring `Nest.js` to broaden my back-end development skills.
+- Enhancing my proficiency in algorithms, which is fundamental to programming excellence.
+
+## 📫 How to Reach Me
+- **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
+- **Twitter:** [@weijunext](https://twitter.com/weijunext)
+- **Blog:** [J实验室](https://weijunext.com/)
+- **中文开发者还可以通过以下渠道关注我:**
+  - **微信公众号:** 「BigYe程普」
+  - **掘金:** [BigYe程普](https://juejin.cn/user/26044008768029)
+
+---
+
+I'm open to collaboration and new ideas. Feel free to connect!
+
+
