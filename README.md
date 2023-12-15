@@ -10,12 +10,15 @@
 # Hi there 👋, I'm Wei Jun!
 
 ## 🚀 About Me
-I'm a passionate **Front-End Engineer** and a **Full-Stack Development Enthusiast**. I have a keen interest in **AI** and love exploring the boundaries of technology and creativity.
+I am a **Front-End Engineer** and also a **Full-Stack Development Enthusiast**, as well as an advocate for **AI implementation**.
+
+I am currently writing an e-book on **Next.js Full-Stack Development** tailored for individual developers.
 
 ## 🛠 Skills
-- **Front-End Development:** Proficient in `React`, `Vue`, and `Next.js`.
-- **Back-End Basics:** Comfortable with `Koa`, `Express`, `Midway.js`.
-- **AI Enthusiasm:** Currently learning about generative AI technologies.
+- **Front-End:** `React`, `Vue`, and `Next.js`.
+- **Back-End:** `Node.js`, `Koa`, `Express`, `Midway.js`.
+- **Databases：** `Mysql`、`Prisma` 和 `Redis`。
+- **DevOps：** `PM2` 和 `Nginx`。
 
 
 ## 💡 My Products
@@ -26,8 +29,8 @@ I'm a passionate **Front-End Engineer** and a **Full-Stack Development Enthusias
 
 ## 🌱 Learning Journey
 I'm on a continuous journey of learning and growth. My current focus includes:
-- The course **[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)** deepening my understanding of AI in tech.
 - Exploring `Nest.js` to broaden my back-end development skills.
+- The course **[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)** deepening my understanding of AI in tech.
 - Enhancing my proficiency in algorithms, which is fundamental to programming excellence.
 
 ## 📫 How to Reach Me
