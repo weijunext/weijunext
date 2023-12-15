@@ -10,7 +10,7 @@
 # Hi there 👋, I'm Wei Jun!
 
 ## 🚀 About Me
-I am a **Front-End Engineer** and also a **Full-Stack Development Enthusiast**, as well as an advocate for **AI implementation**.
+I am a **Front-End Engineer**, a **Full-Stack Practitioner**, and an advocate of **AI adventism**.
 
 I am currently writing an e-book on **Next.js Full-Stack Development** tailored for individual developers.
 
