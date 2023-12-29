@@ -12,7 +12,7 @@
 ## 🚀 About Me
 I am a **Front-End Engineer**, a **Full-Stack Practitioner**, and an advocate of **AI adventism**.
 
-I am currently writing an e-book on **Next.js Full-Stack Development** tailored for individual developers.
+I am currently writing a book on **Next.js Full-Stack Development** tailored for individual developers.
 
 ## 🛠 Skills
 - **Front-End:** `React`, `Vue`, and `Next.js`.
