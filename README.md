@@ -17,8 +17,8 @@ I'm crafting a guide on **Next.js Full-Stack Development**, perfect for the solo
 ## 🛠 Skills
 - **Front-End:** `React`, `Vue` and `Next.js`.
 - **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`.
-- **Databases：** `Mysql`、`Prisma` and `Redis`。
-- **DevOps：** `PM2` and `Nginx`。
+- **Databases：** `Mysql`、`Prisma` and `Redis`.
+- **DevOps：** `PM2` and `Nginx`.
 
 
 ## 💡 My Products
@@ -36,10 +36,12 @@ I'm on a continuous journey of learning and growth. My current focus includes:
 ## 📫 How to Reach Me
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
 - **Twitter:** [@weijunext](https://twitter.com/weijunext)
+- **Github:** [Github](https://github.com/weijunext)  
 - **Blog:** [J实验室](https://weijunext.com/)
 - **中文开发者还可以通过以下渠道关注我:**
-  - **微信公众号:** 「BigYe程普」
   - **掘金:** [BigYe程普](https://juejin.cn/user/26044008768029)
+  - **微信交流群:** [全栈交流群](https://weijunext.com/make-a-friend)
+  - **微信公众号:** 「BigYe程普」
 
 ---
 
