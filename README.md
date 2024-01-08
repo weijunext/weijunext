@@ -15,10 +15,10 @@ I am a **Front-End Engineer**, a **Full-Stack Practitioner**, and an advocate of
 I'm crafting a guide on **Next.js Full-Stack Development**, perfect for the solo developer journey.
 
 ## 🛠 Skills
-- **Front-End:** `React`, `Vue`, and `Next.js`.
-- **Back-End:** `Node.js`, `Koa`, `Express`, `Midway.js`.
-- **Databases：** `Mysql`、`Prisma` 和 `Redis`。
-- **DevOps：** `PM2` 和 `Nginx`。
+- **Front-End:** `React`, `Vue` and `Next.js`.
+- **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`.
+- **Databases：** `Mysql`、`Prisma` and `Redis`。
+- **DevOps：** `PM2` and `Nginx`。
 
 
 ## 💡 My Products
