@@ -59,4 +59,4 @@ You can support me in the following ways, and once I receive your sponsorship, I
 
 <a href="https://www.buymeacoffee.com/weijunext" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
-<a href="https://afdian.net/a/weijunext" target="_blank"><img src="afd.svg" alt="在爱发电支持我"></a>
+<a href="https://afdian.net/a/weijunext" target="_blank"><img src="afd.png" alt="在爱发电支持我" style="height: 50px !important"></a>
