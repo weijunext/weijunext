@@ -46,8 +46,8 @@ I'm on a continuous journey of learning and growth. My current focus includes:
 - **Github:** [Github](https://github.com/weijunext)  
 - **Blog:** [J实验室](https://weijunext.com/)
 - **中文开发者还可以通过以下渠道关注我:**
-  - **掘金:** [BigYe程普](https://juejin.cn/user/26044008768029)
-  - **知乎：** [BigYe程普](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
+  - **掘金:** [程普](https://juejin.cn/user/26044008768029)
+  - **知乎:** [程普](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
   - **微信交流群:** [全栈交流群](https://weijunext.com/make-a-friend)
   - **微信公众号:** 「BigYe程普」
 
@@ -59,3 +59,4 @@ You can support me in the following ways, and once I receive your sponsorship, I
 
 <a href="https://www.buymeacoffee.com/weijunext" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
+<a href="https://afdian.net/a/weijunext" target="_blank"><img src="afd.svg" alt="在爱发电支持我"></a>
