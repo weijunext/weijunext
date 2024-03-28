@@ -42,7 +42,8 @@ I'm on a continuous journey of learning and growth. My current focus includes:
 
 ## 📫 Contact Me
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
-- **Twitter:** [@weijunext](https://twitter.com/weijunext)
+- **Twitter(中文):** [@weijunext](https://twitter.com/weijunext)
+- **Twitter(English):** [@wayne_dev](https://twitter.com/wayne_dev)
 - **Github:** [Github](https://github.com/weijunext)  
 - **Blog:** [J实验室](https://weijunext.com/)
 - **中文开发者还可以通过以下渠道关注我:**
