@@ -12,7 +12,9 @@
 # Hi there 👋, I'm Wei Jun!
 
 ## 🚀 About Me
-I am a **Front-End Engineer**, **Full-Stack Practitioner**, and **advocate for AI integration**.
+**Full-Stack Engineer, AI Enthusiast & Open-Source Next.js Artist.**
+
+**全栈工程师，Next.js 开源手艺人，AI降临派。**
 
 I work on Next.js and Node.js projects, sharing knowledge in these areas.
 
