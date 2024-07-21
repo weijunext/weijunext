@@ -30,8 +30,9 @@ I work on Next.js and Node.js projects, sharing knowledge in these areas.
 
 ## 💡 My Products
 - [**SmartExcel**](https://smartexcel.cc/)
-- [**Next.js Practice**](https://github.com/weijunext/nextjs-learn-demos)
 - [**Landing Page Boilerplate**](https://landingpage.weijunext.com)
+- [**Gap Is Money(独立开发者出海周刊)**](https://gapis.money/)
+- [**Next.js Practice**](https://github.com/weijunext/nextjs-learn-demos)
 - [**Next.js Starter**](https://starter.weijunext.com/)
 - [**Github Bio Generator**](https://githubbio.com/)
 - **HelloAI**(Website closed)
