@@ -34,7 +34,7 @@ I work on Next.js and Node.js projects, sharing knowledge in these areas.
 - [**Landing Page Boilerplate**](https://landingpage.weijunext.com)
 - [**Next.js Starter**](https://starter.weijunext.com/)
 - [**Github Bio Generator**](https://githubbio.com/)
-- [**HelloAI**](https://helloai.wiki/)
+- **HelloAI**(Website closed)
 
 ## 📫 Contact Me
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
