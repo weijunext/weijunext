@@ -29,6 +29,7 @@ I work on Next.js and Node.js projects, sharing knowledge in these areas.
 </a>
 
 ## 💡 My Products
+- [**PH Copilot(Product Hunt 助手)**](https://PHCopilot.AI/)
 - [**SmartExcel**](https://smartexcel.cc/)
 - [**Landing Page Boilerplate**](https://landingpage.weijunext.com)
 - [**Gap Is Money(独立开发者出海周刊)**](https://gapis.money/)
