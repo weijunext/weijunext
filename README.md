@@ -29,14 +29,19 @@ I work on Next.js and Node.js projects, sharing knowledge in these areas.
 </a>
 
 ## 💡 My Products
+
+- [**Next.js 中文文档**](https://nextjscn.org/)
+- [**Gap Is Money(独立开发者出海周刊)**](https://gapis.money/)
 - [**PH Copilot(Product Hunt 助手)**](https://PHCopilot.AI/)
+- **HelloAI**(Website closed)
+
+## 🧑‍💻 Open Source and Tutorials
+
+- [**Chrome插件全栈开发教程(付费)**](https://xiaobot.net/p/ship-ph-copilot)
+- [**Next.js Practice**](https://github.com/weijunext/nextjs-learn-demos)
 - [**SmartExcel**](https://smartexcel.cc/)
 - [**Landing Page Boilerplate**](https://landingpage.weijunext.com)
-- [**Gap Is Money(独立开发者出海周刊)**](https://gapis.money/)
-- [**Next.js Practice**](https://github.com/weijunext/nextjs-learn-demos)
-- [**Next.js Starter**](https://starter.weijunext.com/)
-- [**Github Bio Generator**](https://githubbio.com/)
-- **HelloAI**(Website closed)
+- [**Weekly Boilerplate**](https://weekly.weijunext.com)
 
 ## 📫 Contact Me
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
