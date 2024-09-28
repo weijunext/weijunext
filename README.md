@@ -19,7 +19,7 @@
 I work on Next.js and Node.js projects, sharing knowledge in these areas.
 
 ## 🛠 Skills
-- **Front-End:** `React`, `Vue` and `Next.js`.
+- **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`.
 - **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`.
 - **Databases：** `Mysql`、`Prisma` and `Redis`.
 - **DevOps：** `PM2` and `Nginx`.
