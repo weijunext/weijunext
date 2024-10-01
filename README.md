@@ -16,7 +16,7 @@
 
 **全栈工程师，Next.js 开源手艺人，AI降临派。**
 
-I work on Next.js and Node.js projects, sharing knowledge in these areas.
+**I'm a Next.js developer and educator.**
 
 ## 🛠 Skills
 - **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`.
