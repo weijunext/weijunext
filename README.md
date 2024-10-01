@@ -61,6 +61,7 @@ I'm open to technical consultations regarding Next.js. Feel free to contact me!
 
 You can support me in the following ways, and once I receive your sponsorship, I will add you to my list of contributors on GitHub and my blog。
 
-<a href="https://www.buymeacoffee.com/weijunext" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
+<a href="https://www.buymeacoffee.com/weijunext" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important" ></a>
 
-<a href="https://afdian.net/a/weijunext" target="_blank"><img src="afd.png" alt="在爱发电支持我" style="height: 50px !important"></a>
+<a href='https://ko-fi.com/G2G6TWWMG' target='_blank'><img height='41'  style='height: 41px' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
