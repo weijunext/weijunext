@@ -9,20 +9,19 @@
 
 <br/>
 
-# Hi there 👋, I'm Wei Jun!
+# Hi there 👋, I'm Jude Wei!
 
 ## 🚀 About Me
-**Full-Stack Engineer, Open-Source Next.js Artist & AI Enthusiast.**
 
-**全栈工程师，Next.js 开源手艺人，AI降临派。**
+🧑‍💻 Full time indie maker  
+💻 Next.js artist
+🤖 AI Enthusiast
 
-**I'm a Next.js developer and educator.**
+I'm building everyday tools for indie makers and creating professional Next.js courses for newbies. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 教程。
 
 ## 🛠 Skills
-- **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`.
-- **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`.
-- **Databases：** `Mysql`、`Prisma` and `Redis`.
-- **DevOps：** `PM2` and `Nginx`.
+- **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`
+- **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`
 
 <a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=8">
@@ -30,8 +29,11 @@
 
 ## 💡 My Products
 
+- [**Next Idea - Find Your Next Idea**](https://nextidea.dev/)
+- [**Next Idea NewTab - Find your Next Idea in new tab**](https://newtab.nextidea.dev/)
+- [**OG Image Generator**](https://ogimage.click/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
-- [**Gap Is Money(独立开发者出海周刊)**](https://gapis.money/)
+- [**独立开发者出海周刊**](https://gapis.money/)
 - [**PH Copilot(Product Hunt 助手)**](https://PHCopilot.AI/)
 - **HelloAI**(Website closed)
 
@@ -45,8 +47,9 @@
 
 ## 📫 Contact Me
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
-- **Twitter(中文):** [@weijunext](https://twitter.com/weijunext)
-- **Twitter(English):** [@wayne_dev](https://twitter.com/wayne_dev)
+- **Twitter(中文):** [@weijunext](https://x.com/intent/follow?screen_name=weijunext)
+- **Twitter(En):** [@judewei_dev](https://x.com/intent/follow?screen_name=judewei_dev)
+- **BlueSky(En):** [@judewei_dev](https://bsky.app/profile/judewei.bsky.social)
 - **Github:** [Github](https://github.com/weijunext)  
 - **Blog:** [J实验室](https://weijunext.com/)
 - **中文开发者还可以通过以下渠道关注我:**
