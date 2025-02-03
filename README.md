@@ -24,7 +24,7 @@ I'm building everyday tools for indie makers and creating professional Next.js c
 - **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`
 
 <a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=8">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=8">
 </a>
 
 ## 💡 My Products
