@@ -29,8 +29,8 @@ I'm building everyday tools for indie makers and creating professional Next.js c
 
 ## 💡 My Products
 
-- [**Next Idea - Find Your Next Idea**](https://nextidea.dev/)
-- [**Next Idea NewTab - Find your Next Idea in new tab**](https://newtab.nextidea.dev/)
+- [**nTab**](https://ntab.dev/)
+- [**Next Idea Directory**](https://nextidea.dev/)
 - [**OG Image Generator**](https://ogimage.click/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
 - [**独立开发者出海周刊**](https://gapis.money/)
