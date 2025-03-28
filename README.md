@@ -33,7 +33,6 @@ I'm building everyday tools for indie makers and creating professional Next.js c
 - [**Next Idea Directory**](https://nextidea.dev/)
 - [**OG Image Generator**](https://ogimage.click/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
-- [**独立开发者出海周刊**](https://gapis.money/)
 - [**PH Copilot(Product Hunt 助手)**](https://PHCopilot.AI/)
 - **HelloAI**(Website closed)
 
