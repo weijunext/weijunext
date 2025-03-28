@@ -34,7 +34,6 @@ I'm building everyday tools for indie makers and creating professional Next.js c
 - [**OG Image Generator**](https://ogimage.click/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
 - [**PH Copilot(Product Hunt 助手)**](https://PHCopilot.AI/)
-- **HelloAI**(Website closed)
 
 ## 🧑‍💻 Open Source and Tutorials
 
