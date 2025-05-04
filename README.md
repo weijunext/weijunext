@@ -29,19 +29,13 @@ I'm building everyday tools for indie makers and creating professional Next.js c
 
 ## 💡 My Products
 
-- [**nTab**](https://ntab.dev/)
-- [**Next Idea Directory**](https://nextidea.dev/)
+- [**Nexty.dev - SaaS Template**](https://nexty.dev)
 - [**OG Image Generator**](https://ogimage.click/)
+- [**nTab**](https://ntab.dev/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
-- [**PH Copilot(Product Hunt 助手)**](https://PHCopilot.AI/)
+- [**Chrome插件全栈开发教程(付费)**](https://ship.weijunext.com)
+- [**Open Source**](https://github.com/weijunext?tab=repositories)
 
-## 🧑‍💻 Open Source and Tutorials
-
-- [**Chrome插件全栈开发教程(付费)**](https://xiaobot.net/p/ship-ph-copilot)
-- [**Next.js Practice**](https://github.com/weijunext/nextjs-learn-demos)
-- [**SmartExcel**](https://smartexcel.cc/)
-- [**Landing Page Boilerplate**](https://landingpage.weijunext.com)
-- [**Weekly Boilerplate**](https://weekly.weijunext.com)
 
 ## 📫 Contact Me
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
