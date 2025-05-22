@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-🧑‍💻 Full time indie maker  
-💻 Next.js artist
+🧑‍💻 Indie Maker  
+💻 Next.js Artist
 🤖 AI Enthusiast
 
 I'm building everyday tools for indie makers and creating professional Next.js courses for newbies. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 教程。
