@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 🧑‍💻 Solo Developer  
-💻 Next.js Artist
+💻 Next.js Artist  
 🤖 AI Enthusiast
 
 I'm building everyday tools for solo developer and creating professional Next.js courses for newbies. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 教程。
