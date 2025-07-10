@@ -17,7 +17,7 @@
 💻 Next.js Artist  
 🤖 AI Enthusiast
 
-I'm building everyday tools for solo developer and creating professional Next.js courses for newbies. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 教程。
+I'm building everyday tools for solo developers and sharing Next.js knowledge. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 知识。
 
 ## 🛠 Skills
 - **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`
