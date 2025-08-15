@@ -30,10 +30,9 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 ## 💡 My Products
 
 - [**Nexty.dev - SaaS Template**](https://nexty.dev)
-- [**OG Image Generator**](https://ogimage.click/)
+- [**OG Image Generator**](https://myogimage.com/)
 - [**nTab**](https://ntab.dev/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
-- [**Chrome插件全栈开发教程(付费)**](https://ship.weijunext.com)
 - [**Open Source**](https://github.com/weijunext?tab=repositories)
 
 
