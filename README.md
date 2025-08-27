@@ -32,6 +32,7 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 - [**Nexty.dev - SaaS Template**](https://nexty.dev)
 - [**OG Image Generator**](https://myogimage.com/)
 - [**nTab**](https://ntab.dev/)
+- [**Discover the Best AI Tools**](https://dofollow.tools/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
 - [**Open Source**](https://github.com/weijunext?tab=repositories)
 
