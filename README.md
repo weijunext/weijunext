@@ -29,10 +29,10 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 
 ## 💡 My Products
 
-- [**Nexty.dev - SaaS Template**](https://nexty.dev)
+- [**NEXTY.DEV - Best SaaS Boilerplate**](https://nexty.dev)
 - [**OG Image Generator**](https://myogimage.com/)
 - [**nTab**](https://ntab.dev/)
-- [**Discover the Best AI Tools**](https://dofollow.tools/)
+- [**Discover Best AI Tools**](https://firstlook.tools/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
 - [**Open Source**](https://github.com/weijunext?tab=repositories)
 
@@ -41,7 +41,6 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 - **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
 - **Twitter(中文):** [@weijunext](https://x.com/intent/follow?screen_name=weijunext)
 - **Twitter(En):** [@judewei_dev](https://x.com/intent/follow?screen_name=judewei_dev)
-- **BlueSky(En):** [@judewei_dev](https://bsky.app/profile/judewei.bsky.social)
 - **Github:** [Github](https://github.com/weijunext)  
 - **Blog:** [J实验室](https://weijunext.com/)
 - **中文开发者还可以通过以下渠道关注我:**
@@ -53,10 +52,4 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 ---
 
 I'm open to technical consultations regarding Next.js. Feel free to contact me!
-
-You can support me in the following ways, and once I receive your sponsorship, I will add you to my list of contributors on GitHub and my blog。
-
-<a href="https://www.buymeacoffee.com/weijunext" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important" ></a>
-
-<a href='https://ko-fi.com/G2G6TWWMG' target='_blank'><img height='41'  style='height: 41px' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
