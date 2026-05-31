@@ -1,13 +1,3 @@
-<div style="overflow:hidden" class="weijunext">
-
-<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=weijunext&count_private=true&theme=radical" />
-</a>
-
-
-</div>
-
-<br/>
 
 # Hi there 👋, I'm Jude Wei!
 
@@ -30,9 +20,9 @@ I'm building everyday tools for solo developers and sharing Next.js knowledge. -
 ## 💡 My Products
 
 - [**NEXTY.DEV - Best SaaS Boilerplate**](https://nexty.dev)
+- [**World Holidays**](https://worldholidays.me/)
 - [**OG Image Generator**](https://myogimage.com/)
 - [**nTab**](https://ntab.dev/)
-- [**Discover Best AI Tools**](https://firstlook.tools/)
 - [**Next.js 中文文档**](https://nextjscn.org/)
 - [**Open Source**](https://github.com/weijunext?tab=repositories)
 
