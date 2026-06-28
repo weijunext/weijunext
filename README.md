@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jude Wei!
 
-I am a Full-Stack Engineer and Tech Entrepreneur. I provide dedicated remote engineering services for UK companies while running my own independent AI studio.
+I am a Full-Stack Engineer and Tech Entrepreneur. I provide dedicated remote engineering services for UK companies while running my own AI studio.
 
 🌏 **Based in Asia**  
 🇬🇧 **Remote Engineer for UK Companies**  
@@ -10,9 +10,9 @@ I am a Full-Stack Engineer and Tech Entrepreneur. I provide dedicated remote eng
 
 ## 🚀 About Me
 
-- 💻 **Founder** of [nexty.dev](https://nexty.dev) — The ultimate Next.js SaaS Boilerplate.
-- 🤖 **Team Leader** heading a dynamic, independent AI application development studio.
-- 📖 **Maintainer** of the [Next.js 中文文档](https://nextjscn.org/), empowering thousands of developers.
+- 💻 Founder of [nexty.dev](https://nexty.dev) — The ultimate Next.js SaaS Boilerplate.
+- 🤖 Building AI-native tools with my team.
+- 📖 Maintainer of the [Next.js 中文文档](https://nextjscn.org/), empowering thousands of developers.
 
 ---
 
@@ -64,4 +64,4 @@ I am a Full-Stack Engineer and Tech Entrepreneur. I provide dedicated remote eng
 
 
 > 💬 **Let’s build something great together**  
-> I build reliable full-stack platforms and AI-native tools, taking care of everything from architecture to deployment. Available for technical services and partnerships—let's connect!
+> We build reliable full-stack platforms and AI-native tools, taking care of everything from architecture to deployment. Available for technical services and partnerships—let's connect!
