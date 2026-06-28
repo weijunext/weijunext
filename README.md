@@ -1,45 +1,67 @@
-
 # Hi there 👋, I'm Jude Wei!
+
+I am a Full-Stack Engineer and Tech Entrepreneur. I provide dedicated remote engineering services for UK companies while running my own independent AI studio.
+
+🌏 **Based in Asia**  
+🇬🇧 **Remote Engineer for UK Companies**  
+🤖 **Leading an AI Development Team**
+
+---
 
 ## 🚀 About Me
 
-🧑‍💻 Solo Developer  
-💻 Next.js Artist  
-🤖 AI Enthusiast
+- 💻 **Founder** of [nexty.dev](https://nexty.dev) — The ultimate Next.js SaaS Boilerplate.
+- 🤖 **Team Leader** heading a dynamic, independent AI application development studio.
+- 📖 **Maintainer** of the [Next.js 中文文档](https://nextjscn.org/), empowering thousands of developers.
 
-I'm building everyday tools for solo developers and sharing Next.js knowledge. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 知识。
-
-## 🛠 Skills
-- **Front-End:** `React`, `Vue`, `Plasmo` and `Next.js`
-- **Back-End:** `Node.js`, `Koa`, `Express` and `Midway.js`
-
-<a href="https://github.com/weijunext/weijunext" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=8">
-</a>
-
-## 💡 My Products
-
-- [**NEXTY.DEV - Best SaaS Boilerplate**](https://nexty.dev)
-- [**World Holidays**](https://worldholidays.me/)
-- [**OG Image Generator**](https://myogimage.com/)
-- [**nTab**](https://ntab.dev/)
-- [**Next.js 中文文档**](https://nextjscn.org/)
-- [**Open Source**](https://github.com/weijunext?tab=repositories)
-
-
-## 📫 Contact Me
-- **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
-- **Twitter(中文):** [@weijunext](https://x.com/intent/follow?screen_name=weijunext)
-- **Twitter(En):** [@judewei_dev](https://x.com/intent/follow?screen_name=judewei_dev)
-- **Github:** [Github](https://github.com/weijunext)  
-- **Blog:** [J实验室](https://weijunext.com/)
-- **中文开发者还可以通过以下渠道关注我:**
-  - **掘金:** [程普](https://juejin.cn/user/26044008768029)
-  - **知乎:** [程普](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
-  - **即刻：**[BigYe程普](https://m.okjike.com/users/13EF1128-B51B-4D22-8B95-16BB406529F0)
-  - **微信公众号:** 「BigYe程普」
-  - **微信交流群:** [全栈交流群](https://weijunext.com/make-a-friend)
 ---
 
-I'm open to technical consultations regarding Next.js. Feel free to contact me!
+## 🛠️ Skills & Tech Stack
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎨 Front-End</strong><br />
+      <code>React</code>, <code>Next.js</code>, <code>Vue</code>, <code>Plasmo (Extension)</code>, <code>TailwindCSS</code>
+      <br /><br />
+      <strong>⚙️ Back-End</strong><br />
+      <code>Node.js</code>, <code>Fastify</code>, <code>PostgreSQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/weijunext">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 My Products & Ecosystem
+
+*   🚀 [**NEXTY.DEV**](https://nexty.dev) — Best production-ready SaaS Boilerplate to launch your products in weeks.
+*   📖 [**Next.js 中文文档**](https://nextjscn.org/) — The most popular & up-to-date unofficial Next.js docs for the Chinese community.
+*   📅 [**World Holidays**](https://worldholidays.me/) — A sleek, worldwide public holiday tracking application & API.
+*   🖼️ [**OG Image Generator**](https://myogimage.com/) — Dynamic, beautiful Open Graph image generation tool for developers.
+*   🔖 [**nTab**](https://ntab.dev/) — A clean, lightning-fast browser New Tab extension for productivity.
+*   📦 [**Open Source Projects**](https://github.com/weijunext?tab=repositories) — Check out my pinned repos and open-source contributions!
+
+---
+
+## 📫 Connect With Me
+
+### 🌐 Global / English Channels
+- **Email:** [weijunext@gmail.com](mailto:weijunext@gmail.com)
+- **Twitter / X:** [@judewei_dev](https://x.com/intent/follow?screen_name=judewei_dev) (English Account)
+- **GitHub:** [@weijunext](https://github.com/weijunext)
+
+### 🇨🇳 国内开发者社交渠道 (ID: 程普 / BigYe程普)
+- **Twitter / X:** [@weijunext](https://x.com/intent/follow?screen_name=weijunext) (中文账号)
+- **即刻 App:** [@BigYe程普](https://m.okjike.com/users/13EF1128-B51B-4D22-8B95-16BB406529F0)
+- **技术博客:** [J实验室](https://weijunext.com/)
+
+---
+
+
+> 💬 **Let’s build something great together**  
+> I build reliable full-stack platforms and AI-native tools, taking care of everything from architecture to deployment. Available for technical services and partnerships—let's connect!
